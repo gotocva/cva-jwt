@@ -1,0 +1,25 @@
+{
+  "name": "cva-jwt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jwt",
+    "encode",
+    "decode",
+    "json web token",
+    "authentication"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/gotocva/cva-jwt.git"
+  },
+  "author": "Sivabharathy <gotocva@gmail.com>",
+  "license": "MIT",
+  "description": "Simple JWT (JSON Web Token) encode and decode module using node crypto",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
